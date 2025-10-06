@@ -41,60 +41,66 @@ severe-injuries-analysis/
 ## 🔬 Data Analysis & Findings
 
 ### 1️⃣ Top 15 Sources of Injuries
+![Top 15 Sources](charts/top_sources.png)
 - Highest: **Floor, n.e.c.** (~1300 injuries)
 - Remaining sources range 150–600 injuries
 - Trend: clear descending order with minor variations
 
 ### 2️⃣ Top 15 Nature Types
+![Top 15 Nature Types](charts/top_nature.png)
 - Highest: **Fractures** (~6000 injuries)
 - Followed by **Amputations** (~5500–6000)
 - Others: Cuts, lacerations, unspecified injuries
 - Trend: dominant high-frequency injuries
 
 ### 3️⃣ Top 15 Event Types
+![Top 15 Event Types](charts/top_event.png)
 - Highest: “Riding regularly operation?” (~1800–1900)
 - Other events: 500–1500
 - Trend: descending pattern with small variations
 
 ### 4️⃣ Top 15 NAICS Sectors
+![Top 15 NAICS Sectors](charts/top_naics.png)
 - Highest: **622110 (Hospitals)** (~500 injuries)
 - Others: 213112, 491110, 445110, 236220, etc.
 - Trend: fairly uniform with minor differences
 
 ### 5️⃣ Top 20 Cities
+![Top 20 Cities](charts/top_cities.png)
 - Highest: **Houston** (~400 injuries)
 - Others: Orlando, Chicago, Dallas (~220–250)
 - Trend: concentrated in major urban areas
 
 ### 6️⃣ Top 15 States
+![Top 15 States](charts/top_states.png)
 - Highest: **Texas** (~3500 injuries)
 - Followed by Florida, Pennsylvania, Ohio, Illinois, etc.
 - Trend: few states account for majority of injuries
 
 ### 7️⃣ Monthly Injuries Trend
+![Monthly Injuries Trend](charts/monthly_trend.png)
 - Observed peak in mid-2016 and early 2017
 - Example: Jan 2015 ~850, Aug 2016 ~1060, Jan 2017 ~840
 
 ### 8️⃣ Top 10 Body Parts Injured (Hospitalized)
+![Top 10 Body Parts](charts/top_bodyparts.png)
 - Head/Neck (~2800–2900)
 - Fingertip(s) (~2400)
 - Nonclassifiable (~1400–1500)
 - Others: Arm, Leg, Hip, Brain, Ankle
 
 ### 9️⃣ Top 10 Employers with Severe Injuries
+![Top 10 Employers](charts/top_employers.png)
 - Highest: **U.S. Postal Service** (~130 injuries)
 - Others: 60–120 injuries
 - Trend: few employers dominate injury counts
 
 ### 🔟 Injuries per Year
+![Injuries per Year](charts/injuries_per_year.png)
 - 2015: ~9900
 - 2016: ~10150
 - 2017: ~1600
 - Note: significant peak in 2016, sharp decline in 2017
-
-### 1️⃣1️⃣ Severity Distribution
-- Hospitalized: 100% (data subset focused on institutional hospitalizations)
-
 ---
 
 ## 💡 Key Findings
