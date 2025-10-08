@@ -1,9 +1,7 @@
 # 🏥 Severe Injuries Analysis Dashboard
 
-![GitHub top language](https://img.shields.io/github/languages/top/yourusername/severe-injuries-analysis) 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/severe-injuries-analysis)
-![License](https://img.shields.io/github/license/yourusername/severe-injuries-analysis)
-![Issues](https://img.shields.io/github/issues/yourusername/severe-injuries-analysis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-emad-396981344/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white)](mailto:mohamedemad24649@gmail.com)  
 
 ---
 
@@ -12,6 +10,8 @@
 This project provides a **comprehensive analysis of severe injuries** across different workplaces and industries.  
 It uses historical injury records from 2015–2017 to examine **hospitalizations, amputations, event types, body parts affected, and sources of injuries**.  
 The analysis was performed using **Python (pandas, seaborn, matplotlib)** and results are presented as charts for decision support and safety improvement.
+**Power BI dashboard** analyzing **severe workplace injuries in the U.S. (2015–2017)**.  
+The goal is to identify **key trends, high-risk sources, and actionable recommendations** for improving workplace safety.  
 
 ---
 
@@ -138,6 +138,20 @@ All charts are saved under the `charts/` folder and include:
 - Top 15 Event Types
 - Top 15 Nature Types
 - Top 15 Sources
+
+---
+
+## 📊 Power BI dashboard Pages
+
+1. **Overview** → KPIs (Total Injuries, Hospitalizations, Amputations) + Monthly Trend  
+2. **Injury by Source** → Top 15 sources of injuries (floor, ladders, platforms…)  
+3. **Injury by Nature** → Distribution of injury types (Hospitalized, Amputation, etc.)  
+4. **Injury by Event** → Top 15 injury-causing events  
+5. **Body Part Analysis** → Most affected body parts (Top 10 hospitalized)  
+6. **Employer Analysis** → Top employers with severe injuries  
+7. **Geographical Distribution** → Injuries by State/City (Houston as Top City)  
+8. **Trend Analysis** → Yearly & Monthly injury patterns (2015–2017)  
+9. **Insights & Recommendations** → Key findings + suggested interventions  
 
 ---
 
