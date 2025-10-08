@@ -26,13 +26,19 @@ severe-injuries-analysis/
 │ ├── Part.csv
 │ └── Source.csv
 │
+├── SQL/ # queries by SMSS
+|   └── queries.sql
+├── python/ # Python script for analysis & charts
+|   └── Analysis.ipynb
 ├── charts/ # Generated charts
 │ ├── severity_distribution.png
 │ ├── injuries_per_year.png
 │ ├── top_employers.png
 │ └── ... (all 11 charts)
+|
+├── power bi/ # Power BI dashboard
+|   └── dashboard.pbix
 │
-├── analysis.py # Python script for analysis & charts
 └── README.md # This file
 ```
 
